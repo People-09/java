@@ -1,0 +1,18 @@
+package com.java.q1;
+
+import java.util.Scanner;
+
+public class Example1 {
+
+	public static void main(String[] args) {
+		
+	System.out.println("Enter the Birthda Date : ");
+	Scanner sc = new Scanner(System.in);
+	String c = sc.next();
+	int birthDate=sc.nextInt();
+	if (birthDate==(2015/10/28))
+	{
+		System.out.println("Happy Birthday");
+	}
+}
+}

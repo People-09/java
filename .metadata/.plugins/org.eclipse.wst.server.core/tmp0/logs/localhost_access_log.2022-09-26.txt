@@ -1,0 +1,14 @@
+127.0.0.1 - - [26/Sep/2022:19:59:17 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:19:59:21 +0530] "GET /webProjects/index.html HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:19:59:22 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:20:00:58 +0530] "GET /webProjects/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:20:07:21 +0530] "GET /webProjects/index.html HTTP/1.1" 200 133
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:20:16:03 +0530] "GET /webProjects/index.html HTTP/1.1" 200 394
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:20:16:59 +0530] "GET /webProjects/index.html?u=user7&pwd=2584&add=dow&zip=3256 HTTP/1.1" 200 394
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:20:17:33 +0530] "GET /webProjects/register.html HTTP/1.1" 200 374
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:20:17:45 +0530] "POST /webProjects/reg.jsp HTTP/1.1" 200 135
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:20:43:17 +0530] "GET /webProjects/reg.jsp HTTP/1.1" 500 2364
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:20:46:55 +0530] "GET /webProjects/reg.jsp HTTP/1.1" 500 2465
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:20:46:55 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:20:48:24 +0530] "GET /webProjects/reg.jsp HTTP/1.1" 500 2465
+0:0:0:0:0:0:0:1 - - [26/Sep/2022:20:59:36 +0530] "GET /webProjects/reg.jsp HTTP/1.1" 500 2465

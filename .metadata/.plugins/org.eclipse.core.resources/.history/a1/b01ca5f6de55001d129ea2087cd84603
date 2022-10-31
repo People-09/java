@@ -1,0 +1,28 @@
+package com.java.Interface;
+
+import java.time.LocalDate;
+import java.time.Month;
+import java.util.Date;
+import java.util.Scanner;
+import java.util.regex.Pattern;
+
+public class DateTime {
+	
+public static void main(String[] args)
+{
+   	LocalDate d = LocalDate.now();
+   	LocalDate d1 =LocalDate.of(2015, Month.OCTOBER, 28);
+   	Scanner sc = new Scanner(System.in);
+   	System.out.println("Enter the birthday date ");
+   	Pattern a =sc.delimiter();
+   	//String a=sc.next();
+   	System.out.println("Enter the todaydate ");
+   	int b=sc.nextInt();
+//   	System.out.println(d);
+//   	System.out.println(d1);
+   	if(a==d)
+   	{
+   		
+   	}
+}
+}

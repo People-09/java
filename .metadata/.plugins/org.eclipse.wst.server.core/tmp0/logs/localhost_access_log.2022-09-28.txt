@@ -1,0 +1,15 @@
+127.0.0.1 - - [28/Sep/2022:12:19:29 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:19:30 +0530] "GET /webProjects/register.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:19:30 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:19:51 +0530] "POST /webProjects/reg.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:19:51 +0530] "GET /webProjects/login.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:19:59 +0530] "POST /webProjects/login.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:19:59 +0530] "GET /webProjects/welcom.jsp HTTP/1.1" 200 140
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:25:34 +0530] "GET /webProjects/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:26:05 +0530] "GET /webProjects/index.html HTTP/1.1" 200 254
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:28:49 +0530] "GET /webProjects/login.jsp HTTP/1.1" 200 135
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:28:52 +0530] "GET /webProjects/login.jsp HTTP/1.1" 200 135
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:28:52 +0530] "GET /webProjects/login.jsp HTTP/1.1" 200 135
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:29:09 +0530] "POST /webProjects/login.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:29:09 +0530] "GET /webProjects/welcom.jsp HTTP/1.1" 200 140
+0:0:0:0:0:0:0:1 - - [28/Sep/2022:12:29:31 +0530] "GET /webProjects/reg.jsp HTTP/1.1" 200 135

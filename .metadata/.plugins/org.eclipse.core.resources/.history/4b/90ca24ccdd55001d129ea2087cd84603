@@ -1,0 +1,14 @@
+package com.java.Interface;
+
+import java.time.LocalDate;
+import java.time.Month;
+
+public class DateTime {
+	
+public static void main(String[] args)
+{
+   	LocalDate d = LocalDate.now();
+   	LocalDate d1 =LocalDate.of(2015, Month.OCTOBER, 28);
+   	System.out.println(d);
+}
+}

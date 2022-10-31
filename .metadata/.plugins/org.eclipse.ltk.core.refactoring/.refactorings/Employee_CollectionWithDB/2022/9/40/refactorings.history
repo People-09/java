@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.test.dao&apos; to &apos;com.test.concepts&apos;&#x0D;&#x0A;- Original project: &apos;DaoServiceProject&apos;&#x0D;&#x0A;- Original element: &apos;DaoServiceProject/src/com.test.dao&apos;&#x0D;&#x0A;- Renamed element: &apos;DaoServiceProject/src/com.test.concepts&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.test.dao&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.test.dao" name="com.test.concepts" qualified="false" references="true" stamp="1664430833729" textual="false" version="1.0"/>
+</session>

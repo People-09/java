@@ -1,0 +1,26 @@
+package com.java.q1;
+
+import java.util.Scanner;
+
+public class Birthday {
+	public static void main(String[] args) {
+		
+		System.out.println("Enter the Birthda Date : ");
+		Scanner sc = new Scanner(System.in);
+		String c = sc.next();
+		int birthDate = sc.nextInt();
+	    int  todayDate = sc.nextInt();
+		
+	    /*if else condition check data match or not*/
+		if (birthDate==(2015/10/28))
+		{
+			System.out.println("Happy Birthday");
+		}
+		else if(todayDate==(2022/10/27))
+		{
+			System.out.println("Today is not my birthday");
+		}
+		
+	}
+
+}
